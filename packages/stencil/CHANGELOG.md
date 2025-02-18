@@ -1,3 +1,13 @@
+## 21.0.1 (2025-02-18)
+
+### 🩹 Fixes
+
+- **Stencil:** ensure `strictConfig` object has default values if `loadedConfig` is undefined ([d3357f9c](https://github.com/jeffdetmer/nx-extensions/commit/d3357f9c))
+
+### ❤️  Thank You
+
+- Dabiel González Ramos
+
 ## 20.0.6 (2024-10-21)
 
 ### 🩹 Fixes
