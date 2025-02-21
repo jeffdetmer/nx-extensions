@@ -1,3 +1,17 @@
+## 21.0.1 (2025-02-21)
+
+### 🩹 Fixes
+
+- **url:** update docs url ([ac5f9110](https://github.com/jeffdetmer/nx-extensions/commit/ac5f9110))
+
+### 🧱 Updated Dependencies
+
+- Updated capacitor to 21.0.1
+
+### ❤️  Thank You
+
+- Abdelaziz Bennouna
+
 ## 20.0.5 (2024-12-09)
 
 ### 🧱 Updated Dependencies

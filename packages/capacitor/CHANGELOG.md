@@ -1,3 +1,13 @@
+## 21.0.1 (2025-02-21)
+
+### 🩹 Fixes
+
+- **url:** update docs url ([d78117cf](https://github.com/jeffdetmer/nx-extensions/commit/d78117cf))
+
+### ❤️  Thank You
+
+- Abdelaziz Bennouna
+
 ## 20.1.0 (2024-12-09)
 
 ### 🚀 Features
