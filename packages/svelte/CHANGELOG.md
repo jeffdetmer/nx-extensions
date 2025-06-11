@@ -1,3 +1,13 @@
+## 21.1.0 (2025-06-11)
+
+### 🚀 Features
+
+- 1184 add nx 21 support ([4a20602b](https://github.com/jeffdetmer/nx-extensions/commit/4a20602b))
+
+### ❤️ Thank You
+
+- Paweł Twardziak
+
 ## 20.1.0 (2025-06-11)
 
 ### 🚀 Features
